@@ -1,0 +1,16 @@
+:root {
+  --main-bg: rgb(20, 20, 20);
+  --netflix-red: rgb(229, 9, 20);
+  --main-font: rgb(255, 255, 255);
+}
+
+* {
+  /* border: 1px solid hotpink; */
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  color: var(--main-font);
+  background: var(--main-bg);
+}
